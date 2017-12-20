@@ -1,0 +1,7 @@
+{
+    "name": "cwp-16",
+    "author": "Eugene Kurlovich",
+    "dependencies": {
+        "moment": "^2.20.1"
+    }
+}
